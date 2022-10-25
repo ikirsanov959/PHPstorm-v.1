@@ -1,1 +1,1 @@
-<?php echo 'Hello world v2' ?>
+<?php echo 'Hello world v.2' ?>
